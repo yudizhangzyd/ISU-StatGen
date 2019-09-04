@@ -5,7 +5,7 @@
     <link>/post/</link>
       <atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Posts</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 06 Sep 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 04 Sep 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Posts</title>
@@ -13,14 +13,14 @@
     </image>
     
     <item>
-      <title>Model-Based Clustering of Illumina Microbiome Amplicon Sequence Data</title>
-      <link>/post/model-based-clustering-of-illumina-microbiome-amplicon-sequence-data/</link>
-      <pubDate>Fri, 06 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>/post/model-based-clustering-of-illumina-microbiome-amplicon-sequence-data/</guid>
+      <title>Model-Based Clustering of Illumina Microbiome Amplicon Sequence</title>
+      <link>/post/model-based-clustering-of-illumina-microbiome-amplicon-sequence/</link>
+      <pubDate>Wed, 04 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>/post/model-based-clustering-of-illumina-microbiome-amplicon-sequence/</guid>
       <description>
 
 
-&lt;p&gt;&lt;strong&gt;Speaker: Xiyu Peng&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Author: Xiyu Peng&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Next-generation amplicon sequencing is a powerful tool for investigating microbial communities. One main challenge is to distinguish true biological variants from errors caused by PCR and sequencing. In the traditional analysis pipeline, such errors are eliminated by clustering reads within a sequence similarity threshold, usually 97%, and constructing operational taxonomic units (OTUs). However, the arbitrary threshold can lead to low resolution and high false-positive rates.&lt;/p&gt;
 &lt;p&gt;Here, we introduce AmpliCI, a reference-free model-based method for rapidly resolving the number, abundance, and identity of error-free sequences in massive Illumina amplicon datasets. AmpliCI takes into account quality information and allows the data, rather than an arbitrary threshold or an external database, to drive the conclusion. AmpliCI estimates a mixture model, using a greedy strategy to gradually select error-free sequences while approximately maximizing the likelihood. In a simulation study, our method achieves better accuracy than competing methods, especially in communities of closely related species. AmpliCI also shows comparable or better accuracy than other methods when analyzing real mock datasets.&lt;/p&gt;
 </description>
