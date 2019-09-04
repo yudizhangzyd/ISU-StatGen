@@ -2,6 +2,8 @@
 title: "First Statistical Genetics Group Meeting"
 date: "2019-08-30"
 slug: 'first-statistical-genetics-group-meeting'
+categories: []
+tags: []
 ---
 It is the first statistical genetics group meeting at ISU, attendees from different departments (STAT, BCB ,etc) with silimar interests in statistics modelling in genetics came together, got to know each other and talked about their ideas regard to this area. 
 
