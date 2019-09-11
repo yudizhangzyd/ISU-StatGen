@@ -1,0 +1,16 @@
+---
+title: Statistical Tools on Haplotype Phasing for Diploids and Polyploids
+author: Yudi Zhang
+date: '2019-09-11'
+slug: statistical-tools-on-haplotype-phasing-for-diploids-and-polyploids
+categories: []
+tags: []
+---
+
+This top is a good fit for people who want to know about newly developed statistical and computational methods in haplotype phasing (not only for diploids but also for polyploids)! 2 recent papers related to this topic will be discussed. Here is the summary [slides](https://www.overleaf.com/read/xbdhypczdvbx).
+
+Below are links to the papers.
+
+1. Edge, P. et al. (2017) HapCUT2: robust and accurate haplotype assembly for diverse sequencing technologies. Genome Res., 27, 801–812. [URL](https://genome.cshlp.org/content/27/5/801.full.pdf)
+
+2. He D., Saha S., Finkers R., Parida L., 2018. Efficient algorithms for polyploid haplotype phasing. BMC Genomics 19: 110. [URL](https://bmcgenomics.biomedcentral.com/articles/10.1186/s12864-018-4464-9)

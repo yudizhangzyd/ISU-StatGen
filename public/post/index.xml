@@ -5,12 +5,29 @@
     <link>/post/</link>
       <atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Posts</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 04 Sep 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 11 Sep 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Posts</title>
       <link>/post/</link>
     </image>
+    
+    <item>
+      <title>Statistical Tools on Haplotype Phasing for Diploids and Polyploids</title>
+      <link>/post/statistical-tools-on-haplotype-phasing-for-diploids-and-polyploids/</link>
+      <pubDate>Wed, 11 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>/post/statistical-tools-on-haplotype-phasing-for-diploids-and-polyploids/</guid>
+      <description>
+
+
+&lt;p&gt;This top is a good fit for people who want to know about newly developed statistical and computational methods in haplotype phasing (not only for diploids but also for polyploids)! 2 recent papers related to this topic will be discussed. Here is the summary &lt;a href=&#34;https://www.overleaf.com/read/xbdhypczdvbx&#34;&gt;slides&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Below are links to the papers.&lt;/p&gt;
+&lt;ol style=&#34;list-style-type: decimal&#34;&gt;
+&lt;li&gt;&lt;p&gt;Edge, P. et al. (2017) HapCUT2: robust and accurate haplotype assembly for diverse sequencing technologies. Genome Res., 27, 801–812. &lt;a href=&#34;https://genome.cshlp.org/content/27/5/801.full.pdf&#34;&gt;URL&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;He D., Saha S., Finkers R., Parida L., 2018. Efficient algorithms for polyploid haplotype phasing. BMC Genomics 19: 110. &lt;a href=&#34;https://bmcgenomics.biomedcentral.com/articles/10.1186/s12864-018-4464-9&#34;&gt;URL&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+    </item>
     
     <item>
       <title>Model-Based Clustering of Illumina Microbiome Amplicon Sequence</title>

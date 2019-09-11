@@ -3,17 +3,22 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/post/model-based-clustering-of-illumina-microbiome-amplicon-sequence/</loc>
-    <lastmod>2019-09-04T00:00:00+00:00</lastmod>
+    <loc>/post/</loc>
+    <lastmod>2019-09-11T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/post/</loc>
-    <lastmod>2019-09-04T00:00:00+00:00</lastmod>
+    <loc>/post/statistical-tools-on-haplotype-phasing-for-diploids-and-polyploids/</loc>
+    <lastmod>2019-09-11T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/</loc>
+    <lastmod>2019-09-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/model-based-clustering-of-illumina-microbiome-amplicon-sequence/</loc>
     <lastmod>2019-09-04T00:00:00+00:00</lastmod>
   </url>
   
