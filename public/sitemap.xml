@@ -3,17 +3,22 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/post/</loc>
-    <lastmod>2019-09-11T00:00:00+00:00</lastmod>
+    <loc>/post/constrained-newton-method-for-transcript-quantification-project-salmon/</loc>
+    <lastmod>2019-09-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/post/statistical-tools-on-haplotype-phasing-for-diploids-and-polyploids/</loc>
-    <lastmod>2019-09-11T00:00:00+00:00</lastmod>
+    <loc>/post/</loc>
+    <lastmod>2019-09-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/</loc>
+    <lastmod>2019-09-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/statistical-tools-on-haplotype-phasing-for-diploids-and-polyploids/</loc>
     <lastmod>2019-09-11T00:00:00+00:00</lastmod>
   </url>
   

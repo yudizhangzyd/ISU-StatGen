@@ -5,12 +5,25 @@
     <link>/post/</link>
       <atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Posts</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 11 Sep 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 19 Sep 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Posts</title>
       <link>/post/</link>
     </image>
+    
+    <item>
+      <title>Constrained Newton method for transcript quantification project Salmon</title>
+      <link>/post/constrained-newton-method-for-transcript-quantification-project-salmon/</link>
+      <pubDate>Thu, 19 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>/post/constrained-newton-method-for-transcript-quantification-project-salmon/</guid>
+      <description>
+
+
+&lt;p&gt;&lt;strong&gt;Author: Lingnan Yuan&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Abstract: RNA-seq is a deep sequencing technique used to analyze the transcriptome. One of the major interest of transcriptome is the gene expression estimation. The transcript quantification can be realized in two steps, the first is to align the reads into the transcriptome, the second step is to estimate the abundance of transcripts. The well-known project Salmon used EM algorithm in the second step, which is slow as the ridge shaped likelihood gets flat. We are considering to speed up using newton method instead.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Statistical Tools on Haplotype Phasing for Diploids and Polyploids</title>
