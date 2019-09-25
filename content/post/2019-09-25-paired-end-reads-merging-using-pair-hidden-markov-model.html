@@ -1,0 +1,15 @@
+---
+title: Paired-end reads merging using pair-hidden Markov model
+author: Shofi Andari
+date: '2019-09-25'
+slug: paired-end-reads-merging-using-pair-hidden-markov-model
+categories: []
+tags: []
+---
+
+
+
+<p><strong>Author: Shofi Andari</strong></p>
+<p><strong>Abstract:</strong></p>
+<p>A DNA fragment, in Illumina paired-end (PE) sequencing, is read from both ends, resulting forward and backward reads. This can be seen as a challenge and also an opportunity to infer the DNA fragment by merging the information from the PE reads, where the alignment is involved is part of the solution.
+The challenge is identifying the replicate nucleotides and combining the information. There have been numerous tools developed for merging PE reads (and this area of research is still growing). Many of these methods ignore the possibility of sequencing indels, which are rare but not impossible, or assign penalties more consistent with evolutionary rates than Illuminated sequencing rates for indels. All of these methods either ignore the quality scores or assume they can be interpreted as PHRED error probabilities. Preliminary evidence suggests that using quality based substitution penalties and appropriate indel penalties in alignment can improve read pair merging. We propose the idea of PE read merging via HMM. The alignment state is the hidden information at each site. The possible hidden states include non overlapping end regions and deletions, insertions, and match base pairs in the overlap region. We are building the scheme under a pair-hidden Markov model (pair-HMM) using the Baum-Welch algorithm to estimate the parameters, and the Viterbi algorithm to find the most likely alignment.</p>

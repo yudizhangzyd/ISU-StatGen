@@ -5,12 +5,27 @@
     <link>/post/</link>
       <atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Posts</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 19 Sep 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 25 Sep 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Posts</title>
       <link>/post/</link>
     </image>
+    
+    <item>
+      <title>Paired-end reads merging using pair-hidden Markov model</title>
+      <link>/post/paired-end-reads-merging-using-pair-hidden-markov-model/</link>
+      <pubDate>Wed, 25 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>/post/paired-end-reads-merging-using-pair-hidden-markov-model/</guid>
+      <description>
+
+
+&lt;p&gt;&lt;strong&gt;Author: Shofi Andari&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;A DNA fragment, in Illumina paired-end (PE) sequencing, is read from both ends, resulting forward and backward reads. This can be seen as a challenge and also an opportunity to infer the DNA fragment by merging the information from the PE reads, where the alignment is involved is part of the solution.
+The challenge is identifying the replicate nucleotides and combining the information. There have been numerous tools developed for merging PE reads (and this area of research is still growing). Many of these methods ignore the possibility of sequencing indels, which are rare but not impossible, or assign penalties more consistent with evolutionary rates than Illuminated sequencing rates for indels. All of these methods either ignore the quality scores or assume they can be interpreted as PHRED error probabilities. Preliminary evidence suggests that using quality based substitution penalties and appropriate indel penalties in alignment can improve read pair merging. We propose the idea of PE read merging via HMM. The alignment state is the hidden information at each site. The possible hidden states include non overlapping end regions and deletions, insertions, and match base pairs in the overlap region. We are building the scheme under a pair-hidden Markov model (pair-HMM) using the Baum-Welch algorithm to estimate the parameters, and the Viterbi algorithm to find the most likely alignment.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Constrained Newton method for transcript quantification project Salmon</title>
