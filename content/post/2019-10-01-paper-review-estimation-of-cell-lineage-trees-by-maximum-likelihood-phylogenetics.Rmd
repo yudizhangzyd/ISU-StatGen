@@ -1,0 +1,20 @@
+---
+title: 'Paper Review: Estimation of Cell Lineage Trees by Maximum-likelihood Phylogenetics'
+author: Karin Dorman
+date: '2019-10-01'
+slug: paper-review-estimation-of-cell-lineage-trees-by-maximum-likelihood-phylogenetics
+categories: []
+tags: []
+---
+
+**Speaker: Dr. Karin Dorman**.
+
+Motivated by the DREAM [challenge](https://www.synapse.org/#!Synapse:syn20692755/wiki/595096),Dr. Dorman is going to review a 2019 [paper](https://arxiv.org/pdf/1904.00117.pdf). There is also a Science [paper](https://science.sciencemag.org/content/353/6298/aaf7907.long) that introduces the general background. The title and abstract of the 2019 paper is below.
+
+**Title:**
+
+Estimation of cell lineage trees bymaximum-likelihood phylogenetics
+
+**Abstract:**
+
+CRISPR technology has enabled large-scale cell lineage tracing for complex multicellular organismsby mutating synthetic genomic barcodes during organismal development. However, these sophisticated biological tools currently use ad-hoc and outmoded computational methods to reconstructthe cell lineage tree from the mutated barcodes. Because these methods are agnostic to thebiological mechanism, they are unable to take full advantage of the data’s structure. We propose astatistical model for the mutation process and develop a procedure to estimate the tree topology,branch lengths, and mutation parameters by iteratively applying penalized maximum likelihoodestimation.

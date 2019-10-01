@@ -5,12 +5,29 @@
     <link>/post/</link>
       <atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Posts</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 25 Sep 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Oct 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Posts</title>
       <link>/post/</link>
     </image>
+    
+    <item>
+      <title>Paper Review: Estimation of Cell Lineage Trees by Maximum-likelihood Phylogenetics</title>
+      <link>/post/paper-review-estimation-of-cell-lineage-trees-by-maximum-likelihood-phylogenetics/</link>
+      <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>/post/paper-review-estimation-of-cell-lineage-trees-by-maximum-likelihood-phylogenetics/</guid>
+      <description>
+
+
+&lt;p&gt;&lt;strong&gt;Speaker: Dr. Karin Dorman&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;Motivated by the DREAM &lt;a href=&#34;https://www.synapse.org/#!Synapse:syn20692755/wiki/595096&#34;&gt;challenge&lt;/a&gt;,Dr. Dorman is going to review a 2019 &lt;a href=&#34;https://arxiv.org/pdf/1904.00117.pdf&#34;&gt;paper&lt;/a&gt;. There is also a Science &lt;a href=&#34;https://science.sciencemag.org/content/353/6298/aaf7907.long&#34;&gt;paper&lt;/a&gt; that introduces the general background. The title and abstract of the 2019 paper is below.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Title:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Estimation of cell lineage trees bymaximum-likelihood phylogenetics&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;CRISPR technology has enabled large-scale cell lineage tracing for complex multicellular organismsby mutating synthetic genomic barcodes during organismal development. However, these sophisticated biological tools currently use ad-hoc and outmoded computational methods to reconstructthe cell lineage tree from the mutated barcodes. Because these methods are agnostic to thebiological mechanism, they are unable to take full advantage of the data’s structure. We propose astatistical model for the mutation process and develop a procedure to estimate the tree topology,branch lengths, and mutation parameters by iteratively applying penalized maximum likelihoodestimation.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Paired-end reads merging using pair-hidden Markov model</title>
