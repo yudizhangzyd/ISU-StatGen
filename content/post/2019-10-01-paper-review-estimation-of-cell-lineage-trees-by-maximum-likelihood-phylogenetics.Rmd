@@ -9,7 +9,7 @@ tags: []
 
 **Speaker: Dr. Karin Dorman**.
 
-Motivated by the DREAM [challenge](https://www.synapse.org/#!Synapse:syn20692755/wiki/595096),Dr. Dorman is going to review a 2019 [paper](https://arxiv.org/pdf/1904.00117.pdf). There is also a Science [paper](https://science.sciencemag.org/content/353/6298/aaf7907.long) that introduces the general background. The title and abstract of the 2019 paper is below.
+Motivated by the DREAM [challenge](https://www.synapse.org/#!Synapse:syn20692755/wiki/595096), Dr. Dorman is going to review a 2019 [paper](https://arxiv.org/pdf/1904.00117.pdf). There is also a Science [paper](https://science.sciencemag.org/content/353/6298/aaf7907.long) that introduces the general background. The title and abstract of the 2019 paper is below.
 
 **Title:**
 
