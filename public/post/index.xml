@@ -5,12 +5,29 @@
     <link>/post/</link>
       <atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Posts</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Oct 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 09 Oct 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Posts</title>
       <link>/post/</link>
     </image>
+    
+    <item>
+      <title>High-dimensional linear state space models for dynamic microbial interaction networks.</title>
+      <link>/post/high-dimensional-linear-state-space-models-for-dynamic-microbial-interaction-networks/</link>
+      <pubDate>Wed, 09 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>/post/high-dimensional-linear-state-space-models-for-dynamic-microbial-interaction-networks/</guid>
+      <description>
+
+
+&lt;p&gt;&lt;strong&gt;Speaker: Debosmita Kundu&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;This week Debosmita Kundu will talk about a &lt;a href=&#34;https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5687744/&#34;&gt;paper&lt;/a&gt;. Brief summary is below:&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Title:&lt;/strong&gt;
+High-dimensional linear state space models for dynamic microbial interaction networks.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Knowledge of the abundance of bacteria—which are the predominant members of the human microbiome—in time-course studies along with appropriate mathematical models will allow us to identify key dynamic interaction networks within the microbiome. However, the high-dimensional nature of these data poses significant challenges to the development of such mathematical models. We propose a high-dimensional linear State Space Model (SSM) with a new Expectation-Regularization-Maximization (ERM) algorithm to construct a dynamic Microbial Interaction Network (MIN). System noise and measurement noise can be separately specified through SSMs. In order to deal with the problem of high-dimensional parameter space in the SSMs, the proposed new ERM algorithm employs the idea of the adaptive LASSO-based variable selection method so that the sparsity property of MINs can be preserved. We performed simulation studies to evaluate the proposed ERM algorithm for variable selection. The proposed method is applied to identify the dynamic MIN from a time-course vaginal microbiome study of women.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Paper Review: Estimation of Cell Lineage Trees by Maximum-likelihood Phylogenetics</title>

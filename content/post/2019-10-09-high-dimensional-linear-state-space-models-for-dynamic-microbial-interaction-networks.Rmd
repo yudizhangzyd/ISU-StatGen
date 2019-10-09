@@ -1,0 +1,19 @@
+---
+title: High-dimensional linear state space models for dynamic microbial interaction
+  networks.
+author: Debosmita Kundu
+date: '2019-10-09'
+slug: high-dimensional-linear-state-space-models-for-dynamic-microbial-interaction-networks
+---
+
+**Speaker: Debosmita Kundu**
+
+This week Debosmita Kundu will talk about a [paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5687744/). Brief summary is below:
+
+**Title:**
+High-dimensional linear state space models for dynamic microbial interaction networks.
+
+**Abstract:**
+
+Knowledge of the abundance of bacteria—which are the predominant members of the human microbiome—in time-course studies along with appropriate mathematical models will allow us to identify key dynamic interaction networks within the microbiome. However, the high-dimensional nature of these data poses significant challenges to the development of such mathematical models. We propose a high-dimensional linear State Space Model (SSM) with a new Expectation-Regularization-Maximization (ERM) algorithm to construct a dynamic Microbial Interaction Network (MIN). System noise and measurement noise can be separately specified through SSMs. In order to deal with the problem of high-dimensional parameter space in the SSMs, the proposed new ERM algorithm employs the idea of the adaptive LASSO-based variable selection method so that the sparsity property of MINs can be preserved. We performed simulation studies to evaluate the proposed ERM algorithm for variable selection. The proposed method is applied to identify the dynamic MIN from a time-course vaginal microbiome study of women.
+
