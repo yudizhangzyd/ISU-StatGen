@@ -8,7 +8,7 @@ slug: high-dimensional-linear-state-space-models-for-dynamic-microbial-interacti
 
 **Speaker: Debosmita Kundu**
 
-This week Debosmita Kundu will talk about a [paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5687744/). Brief summary is below:
+This week Debosmita Kundu will talk about a [paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5687744/). Here is the [slides](/slides/slides_kundu.pdf). Brief summary is below:
 
 **Title:**
 High-dimensional linear state space models for dynamic microbial interaction networks.

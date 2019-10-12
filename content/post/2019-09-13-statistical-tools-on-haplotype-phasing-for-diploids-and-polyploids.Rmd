@@ -7,7 +7,7 @@ categories: []
 tags: []
 ---
 
-This top is a good fit for people who want to know about newly developed statistical and computational methods in haplotype phasing (not only for diploids but also for polyploids)! 2 recent papers related to this topic will be discussed. Here is the summary [slides](https://www.overleaf.com/read/xbdhypczdvbx).
+This top is a good fit for people who want to know about newly developed statistical and computational methods in haplotype phasing (not only for diploids but also for polyploids)! 2 recent papers related to this topic will be discussed. Here is the summary [slides](/slides/Hap_Phasing.pdf).
 
 Below are links to the papers.
 
