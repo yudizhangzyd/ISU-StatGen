@@ -5,7 +5,7 @@
     <link>/</link>
       <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <description>Statistics Genetics Group at ISU</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 09 Oct 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 17 Oct 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Statistics Genetics Group at ISU</title>
@@ -15,7 +15,7 @@
     <item>
       <title>Posts</title>
       <link>/post/</link>
-      <pubDate>Wed, 09 Oct 2019 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 17 Oct 2019 00:00:00 +0000</pubDate>
       <guid>/post/</guid>
       <description></description>
     </item>

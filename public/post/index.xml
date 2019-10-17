@@ -5,12 +5,30 @@
     <link>/post/</link>
       <atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Posts</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 09 Oct 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 17 Oct 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Posts</title>
       <link>/post/</link>
     </image>
+    
+    <item>
+      <title>Reconstructing Gene Co-expression Network with c-level Partial Correlation Graph</title>
+      <link>/post/reconstructing-gene-co-expression-network-with-c-level-partial-correlation-graph/</link>
+      <pubDate>Thu, 17 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>/post/reconstructing-gene-co-expression-network-with-c-level-partial-correlation-graph/</guid>
+      <description>
+
+
+&lt;p&gt;&lt;strong&gt;Speaker:&lt;/strong&gt;
+Hao Wang&lt;/p&gt;
+&lt;p&gt;Slides will be avaiable later.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Title:&lt;/strong&gt;
+Reconstructing Gene Co-expression Network with c-level Partial Correlation Graph&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;
+A key aim in system biology is to understand molecules’ structural and functional processes in a living cell. With the development of high-throughput technologies, quantitative methods can be applied on the large scale ‘omics’ dataset. Due to the nature of intricate relationships of all molecules in a cell, network-based methods have become a popular approach to reconstruct gene-gene, gene-protein, and protein-protein interactions. Among different network approaches, Gaussian Graphical Model shows advantages in reconstructing gene co-expression networks because it is able to capture the direct association between genes with partial correlations. However, estimating and inferring partial correlations under the high-dimensional setting are very challenging. A method utilizing penalized partial correlations called exact hypothesis testing for shrinkage based Gaussian Graphical Models (Shrunk MLE) is able to overcome the high-dimension problem. However, the statistical inference of such penalized partial correlations is not satisfying. In this project, a novel network inference method, named c-level Partial Correlation Graph (c-level PCG), is applied to the gene expression dataset to model gene-gene direct association. It overcomes the ill-condition of p greater than n and successfully infers estimated partial correlation with false discovery rate controlled. Compared to Shrunk MLE, c-level PCG is able to achieve much higher statistical power and control the false discovery rate at the same time, according to our simulation studies.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>High-dimensional linear state space models for dynamic microbial interaction networks.</title>
