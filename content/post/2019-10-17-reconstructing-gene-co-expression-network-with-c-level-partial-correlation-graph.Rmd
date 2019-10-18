@@ -11,7 +11,7 @@ subtitle: ''
 **Speaker:** 
 Hao Wang
 
-Slides will be avaiable later.
+Slides is [here](/slides/hao_slides.pdf).
 
 **Title:** 
 Reconstructing Gene Co-expression Network with c-level Partial Correlation Graph
