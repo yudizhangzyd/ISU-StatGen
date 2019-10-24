@@ -1,0 +1,12 @@
+---
+title: Robust Continuous Clustering Reveals Hierarchical Structure in single cell
+  RNA-seq data.
+author: Xiyu Peng
+date: '2019-10-24'
+slug: robust-continuous-clustering-reveals-hierarchical-structure-in-single-cell-rna-seq-data
+---
+**Speaker:** Xiyu Peng
+
+**Abstract:**
+
+Single cell RNA-seq has enabled researchers to investigate the complex population structure in a heterogeneous tissue. One important research question in the analysis of scRNA-Seq data is to identify cell subtypes with different gene expression profile. However, scRNA-seq data is high dimensional along with high noise. The common clustering strategy is to do clustering after dimension reduction or iteratively perform dimension reduction and clustering. We propose a novel clustering method joint with dimension reduction, in which dimension reduction and clustering are conducted simultaneously in the optimization. This is a robust extension of convex clustering, aiming to learn an embedding of cells into a low-dimensional space where clustering occurs. Moreover, the clustering path constructed via continuous clustering strategy can be viewed as an estimate of the developmental trajectories of cells, potentially reveal the underlying path for dynamic cellular processes.

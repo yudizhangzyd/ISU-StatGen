@@ -5,12 +5,26 @@
     <link>/post/</link>
       <atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Posts</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 17 Oct 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 24 Oct 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Posts</title>
       <link>/post/</link>
     </image>
+    
+    <item>
+      <title>Robust Continuous Clustering Reveals Hierarchical Structure in single cell RNA-seq data.</title>
+      <link>/post/robust-continuous-clustering-reveals-hierarchical-structure-in-single-cell-rna-seq-data/</link>
+      <pubDate>Thu, 24 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>/post/robust-continuous-clustering-reveals-hierarchical-structure-in-single-cell-rna-seq-data/</guid>
+      <description>
+
+
+&lt;p&gt;&lt;strong&gt;Speaker:&lt;/strong&gt; Xiyu Peng&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Single cell RNA-seq has enabled researchers to investigate the complex population structure in a heterogeneous tissue. One important research question in the analysis of scRNA-Seq data is to identify cell subtypes with different gene expression profile. However, scRNA-seq data is high dimensional along with high noise. The common clustering strategy is to do clustering after dimension reduction or iteratively perform dimension reduction and clustering. We propose a novel clustering method joint with dimension reduction, in which dimension reduction and clustering are conducted simultaneously in the optimization. This is a robust extension of convex clustering, aiming to learn an embedding of cells into a low-dimensional space where clustering occurs. Moreover, the clustering path constructed via continuous clustering strategy can be viewed as an estimate of the developmental trajectories of cells, potentially reveal the underlying path for dynamic cellular processes.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Reconstructing Gene Co-expression Network with c-level Partial Correlation Graph</title>
