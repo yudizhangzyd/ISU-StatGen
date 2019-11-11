@@ -1,0 +1,17 @@
+---
+title: A Brief Overview of Meta-Analysis
+author: Mark Kaiser
+date: '2019-11-11'
+slug: a-brief-overview-of-meta-analysis
+categories: []
+tags: []
+---
+**Speaker:** Dr. Mark Kaiser
+
+**Title:**
+
+A Brief Overview of Meta-Analysis.
+
+**Abstract:**
+
+Meta-analysis is widely employed in the areas of both human and animal health. The basic issue is how one might combine information from a number of studies on the effect of some potential treatment or preventative measure. There are a number of issues that are not strictly statistical in nature but that have critical importance for the quality of a meta-analysis. We will identify some of these, but will not cover any of them in detail. The focus of the talk will be on the statistical problem of combining estimates of “effect” from a collection of studies. We will present the traditional approaches of what are called the “fixed effect” model and the “random effects” model. Finally, we will suggest a potentially open line of investigation in the area of meta-analysis that could be pursued for maybe a creative component.
