@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Math Bio Group at ISU</title>
+    <title>Math/Stat Bio Group at ISU</title>
     <link>/</link>
       <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
-    <description>Math Bio Group at ISU</description>
+    <description>Math/Stat Bio Group at ISU</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 29 Jan 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
-      <title>Math Bio Group at ISU</title>
+      <title>Math/Stat Bio Group at ISU</title>
       <link>/</link>
     </image>
     
