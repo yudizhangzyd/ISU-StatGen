@@ -5,11 +5,11 @@
 # Each configuration section is defined by a name in square brackets (e.g. `[outputs]`).
 
 # Title of your site
-title = "Statistics Genetics Group at ISU"
+title = "Math Bio Group at ISU"
 
 # The URL of your site.
 # End your URL with a `/` trailing slash, e.g. `https://example.com/`.
-baseurl = "https://isustatgen.netlify.com/"
+baseurl = "https://isumathbio.netlify.com/"
 
 ############################
 ## Advanced options below ##

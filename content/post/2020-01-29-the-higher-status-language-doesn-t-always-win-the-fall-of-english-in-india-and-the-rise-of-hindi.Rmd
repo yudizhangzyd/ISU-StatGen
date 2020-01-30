@@ -1,0 +1,11 @@
+---
+title: 'The higher" status language doesn’t always win: The fall of English in India
+  and the rise of Hindi'
+author: Kushani DeSilva
+date: '2020-01-29'
+slug: the-higher-status-language-doesn-t-always-win-the-fall-of-english-in-india-and-the-rise-of-hindi
+---
+**Author:** Kushani DeSilva
+
+**Abstract:**
+Classical language dynamics explains language shift as a process in which speakers adopt a higher status language in lieu of a lower status language. This is well documented with English having out-competed languages such as Scottish Gaelic, Welsh and Mandarin. The 1961-1991 Indian censuses report a sharp increase in Hindi/English Bilinguals, suggesting that English is on the rise in India - and is out-competing Hindi. However, the 1991 - 2011 data shows that Bilingual numbers have saturated, while Monolingual Hindi speakers continue to rise exponentially. To capture this counter-intuitive dynamics, we propose a novel language dynamics model of interaction between Monolingual Hindi speakers and Hindi/English Bilinguals, which captures the Indian census data of the last 50 years with near perfect accuracy, outperforming the best known language dynamics models from the literature. We thus provide a first example of a lower status language having out competed a higher status language.

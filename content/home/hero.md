@@ -41,8 +41,8 @@ hero_media = "home.png"
 # Note. An optional note to show underneath the links.
 +++
 
-**We are interested in statistics and computating with application on genetics.**
+**We are interested in mathematics and computating with application on biology.**
 
-We are going to meet on Fridays at 4:10 pm this semester (Fall 2019) in 2113 Snedecor. There will be cookies, cakes :))
+We are going to meet on Wednesdays at 3:10 pm this semester (Spring 2020) in 401 Carver Hall.
 
 

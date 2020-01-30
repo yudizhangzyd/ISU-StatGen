@@ -1,0 +1,13 @@
+---
+title: Community stability of ecological networks
+author: Audrey McCombs
+date: '2020-01-22'
+slug: community-stability-of-ecological-networks
+categories: []
+tags: []
+---
+
+**Author:** Audrey McCombs
+
+**Abstract:**
+An ecological community can be represented as a network of species connected by interspecific interactions. Recent work by Kondoh and Mougi (2012, 2017) examines the role of interaction-type diversity on community stability. In particular, they investigate how, if at all, interaction-type diversity affects community stability.  They found that a moderate mixture of antagonistic and mutualistic interactions can stabilize population dynamics, and that increasing community complexity leads to increased stability in a hybrid community. Rohr et al. (2014) study how network architecture affects community persistence.  In their work, they tease apart the idea of “feasibility,” which they define as a community in which, “all species have a constant positive abundance over time,” from the idea of “stability,” which are the “conditions under which the system returns to the equilibrium point.”  Natural communities must be both feasible and stable, and the numerical simulations described in their paper map regions of the parameter space that produce communities meeting both these conditions.  In this talk, we will present several definitions of stability in the context of ecological networks, and discuss our ongoing attempts to first, replicate the model of Kondoh and Mougi, and second, update it using the considerations described by Rohr et al (2014).

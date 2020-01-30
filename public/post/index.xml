@@ -1,16 +1,44 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts | Statistics Genetics Group at ISU</title>
+    <title>Posts | Math Bio Group at ISU</title>
     <link>/post/</link>
       <atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Posts</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 03 Dec 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 29 Jan 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Posts</title>
       <link>/post/</link>
     </image>
+    
+    <item>
+      <title>The higher&#34; status language doesn’t always win: The fall of English in India and the rise of Hindi</title>
+      <link>/post/the-higher-status-language-doesn-t-always-win-the-fall-of-english-in-india-and-the-rise-of-hindi/</link>
+      <pubDate>Wed, 29 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/post/the-higher-status-language-doesn-t-always-win-the-fall-of-english-in-india-and-the-rise-of-hindi/</guid>
+      <description>
+
+
+&lt;p&gt;&lt;strong&gt;Author:&lt;/strong&gt; Kushani DeSilva&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;
+Classical language dynamics explains language shift as a process in which speakers adopt a higher status language in lieu of a lower status language. This is well documented with English having out-competed languages such as Scottish Gaelic, Welsh and Mandarin. The 1961-1991 Indian censuses report a sharp increase in Hindi/English Bilinguals, suggesting that English is on the rise in India - and is out-competing Hindi. However, the 1991 - 2011 data shows that Bilingual numbers have saturated, while Monolingual Hindi speakers continue to rise exponentially. To capture this counter-intuitive dynamics, we propose a novel language dynamics model of interaction between Monolingual Hindi speakers and Hindi/English Bilinguals, which captures the Indian census data of the last 50 years with near perfect accuracy, outperforming the best known language dynamics models from the literature. We thus provide a first example of a lower status language having out competed a higher status language.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Community stability of ecological networks</title>
+      <link>/post/community-stability-of-ecological-networks/</link>
+      <pubDate>Wed, 22 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/post/community-stability-of-ecological-networks/</guid>
+      <description>
+
+
+&lt;p&gt;&lt;strong&gt;Author:&lt;/strong&gt; Audrey McCombs&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;
+An ecological community can be represented as a network of species connected by interspecific interactions. Recent work by Kondoh and Mougi (2012, 2017) examines the role of interaction-type diversity on community stability. In particular, they investigate how, if at all, interaction-type diversity affects community stability. They found that a moderate mixture of antagonistic and mutualistic interactions can stabilize population dynamics, and that increasing community complexity leads to increased stability in a hybrid community. Rohr et al. (2014) study how network architecture affects community persistence. In their work, they tease apart the idea of “feasibility,” which they define as a community in which, “all species have a constant positive abundance over time,” from the idea of “stability,” which are the “conditions under which the system returns to the equilibrium point.” Natural communities must be both feasible and stable, and the numerical simulations described in their paper map regions of the parameter space that produce communities meeting both these conditions. In this talk, we will present several definitions of stability in the context of ecological networks, and discuss our ongoing attempts to first, replicate the model of Kondoh and Mougi, and second, update it using the considerations described by Rohr et al (2014).&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Updating Quality Scores During HMM-based Correction of ILLUMINA Next Generation Sequencing</title>
