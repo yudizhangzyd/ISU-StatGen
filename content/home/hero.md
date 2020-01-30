@@ -41,8 +41,8 @@ hero_media = "home.png"
 # Note. An optional note to show underneath the links.
 +++
 
-**We are interested in mathematics and computating with application on biology.**
+**We are interested in mathematics and computating with application to biology.**
 
-We are going to meet on Wednesdays at 3:10 pm this semester (Spring 2020) in 401 Carver Hall.
+We meet on Wednesdays at 3:10 pm this semester (Spring 2020) in 401 Carver Hall.
 
 

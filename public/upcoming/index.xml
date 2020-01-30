@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Talks | Math Bio Group at ISU</title>
-    <link>/talk/</link>
-      <atom:link href="/talk/index.xml" rel="self" type="application/rss+xml" />
-    <description>Talks</description>
+    <title>Upcomings | Math Bio Group at ISU</title>
+    <link>/upcoming/</link>
+      <atom:link href="/upcoming/index.xml" rel="self" type="application/rss+xml" />
+    <description>Upcomings</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 11 Jun 2019 16:30:00 -0500</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
-      <title>Talks</title>
-      <link>/talk/</link>
+      <title>Upcomings</title>
+      <link>/upcoming/</link>
     </image>
     
     <item>
       <title>Applications of R Shiny to Explore, Evaluate and Improve Total Survey Quality</title>
-      <link>/talk/test/</link>
+      <link>/upcoming/test/</link>
       <pubDate>Tue, 11 Jun 2019 16:30:00 -0500</pubDate>
-      <guid>/talk/test/</guid>
+      <guid>/upcoming/test/</guid>
       <description></description>
     </item>
     
