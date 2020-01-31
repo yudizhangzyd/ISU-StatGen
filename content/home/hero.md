@@ -43,6 +43,6 @@ hero_media = "home.png"
 
 **We are interested in mathematics, statistics and computing with application to biology.**
 
-We meet on Wednesdays at 3:10 pm this semester (Spring 2020) in 401 Carver Hall.
+We meet on Wednesdays at 3:10 pm this semester (Spring 2020) in 401 Carver Hall, feel free to join us.
 
 
