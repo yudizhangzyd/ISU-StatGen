@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Upcomings | Math Bio Group at ISU</title>
+    <title>Upcomings | Math/Stat Bio Group at ISU</title>
     <link>/upcoming/</link>
       <atom:link href="/upcoming/index.xml" rel="self" type="application/rss+xml" />
     <description>Upcomings</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 11 Jun 2019 16:30:00 -0500</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 31 Jan 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Upcomings</title>
@@ -13,11 +13,15 @@
     </image>
     
     <item>
-      <title>Applications of R Shiny to Explore, Evaluate and Improve Total Survey Quality</title>
+      <title>test</title>
       <link>/upcoming/test/</link>
-      <pubDate>Tue, 11 Jun 2019 16:30:00 -0500</pubDate>
+      <pubDate>Fri, 31 Jan 2020 00:00:00 +0000</pubDate>
       <guid>/upcoming/test/</guid>
-      <description></description>
+      <description>
+
+
+&lt;p&gt;Show up&lt;/p&gt;
+</description>
     </item>
     
   </channel>
