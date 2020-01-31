@@ -5,7 +5,7 @@
     <link>/talk/</link>
       <atom:link href="/talk/index.xml" rel="self" type="application/rss+xml" />
     <description>Talks</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 31 Jan 2020 15:10:08 -0600</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 05 Feb 2020 15:10:08 -0600</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Talks</title>
@@ -15,7 +15,7 @@
     <item>
       <title>Understanding the Rules of Life - Design Principles of Gene Regulatory Networks</title>
       <link>/talk/test/</link>
-      <pubDate>Fri, 31 Jan 2020 15:10:08 -0600</pubDate>
+      <pubDate>Wed, 05 Feb 2020 15:10:08 -0600</pubDate>
       <guid>/talk/test/</guid>
       <description>
 
