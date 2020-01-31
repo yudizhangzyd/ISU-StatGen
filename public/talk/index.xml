@@ -5,7 +5,7 @@
     <link>/talk/</link>
       <atom:link href="/talk/index.xml" rel="self" type="application/rss+xml" />
     <description>Talks</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 05 Feb 2020 15:10:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 05 Feb 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Talks</title>
@@ -14,14 +14,14 @@
     
     <item>
       <title>Understanding the Rules of Life - Design Principles of Gene Regulatory Networks</title>
-      <link>/talk/unstandruleoflife/</link>
-      <pubDate>Wed, 05 Feb 2020 15:10:00 +0000</pubDate>
-      <guid>/talk/unstandruleoflife/</guid>
+      <link>/talk/understanding-the-rules-of-life-design-principles-of-gene-regulatory-networks/</link>
+      <pubDate>Wed, 05 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>/talk/understanding-the-rules-of-life-design-principles-of-gene-regulatory-networks/</guid>
       <description>
 
 
-&lt;p&gt;&lt;strong&gt;Speaker: &lt;/strong&gt; Claus Kadelka&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Abstract: &lt;/strong&gt; Gene regulatory networks (GRNs) describe the gene-gene interactions within a cell and can be modeled using (generalized) Boolean networks. In this modeling framework, time and state (gene concentration level) are discretized, and an update rule determines the state of a gene based on the state of its regulators at the previous time step. Kauffman introduced canalizing functions as appropriate update rules for GRNs. In short, a canalizing function possesses at least one input such that, if this input takes on a certain “canalizing” value, then the output is already determined, irrespective of the values of the other inputs. Despite being heavily used, the true prevalence of canalization in GRNs has never been thoroughly assessed.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Abstract: &lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Gene regulatory networks (GRNs) describe the gene-gene interactions within a cell and can be modeled using (generalized) Boolean networks. In this modeling framework, time and state (gene concentration level) are discretized, and an update rule determines the state of a gene based on the state of its regulators at the previous time step. Kauffman introduced canalizing functions as appropriate update rules for GRNs. In short, a canalizing function possesses at least one input such that, if this input takes on a certain “canalizing” value, then the output is already determined, irrespective of the values of the other inputs. Despite being heavily used, the true prevalence of canalization in GRNs has never been thoroughly assessed.&lt;/p&gt;
 &lt;p&gt;In this talk, I describe my ongoing efforts to establish a database of all published, expert-curated Boolean GRN models, which I then harness to identify the fundamental design principles, the Rules of Life, that underlie gene regulation. Apart from canalization, I focus on the impact of network structure and topology on network dynamics and stability.&lt;/p&gt;
 </description>
     </item>
