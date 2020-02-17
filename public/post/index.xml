@@ -5,12 +5,25 @@
     <link>/post/</link>
       <atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Posts</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 05 Feb 2020 15:10:08 -0600</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 12 Feb 2020 15:10:55 -0600</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Posts</title>
       <link>/post/</link>
     </image>
+    
+    <item>
+      <title>Indirect Effects of Invasive Species</title>
+      <link>/post/indirect-effects-of-invasive-species/</link>
+      <pubDate>Wed, 12 Feb 2020 15:10:55 -0600</pubDate>
+      <guid>/post/indirect-effects-of-invasive-species/</guid>
+      <description>
+
+
+&lt;p&gt;&lt;strong&gt;Abstract: &lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Invasive species cause large scale damages to ecosystems because of direct effects of depredation and/or competition, with native species. However, sometimes they also effect ecosystems “indirectly”. In this talk, we will discuss recent work on the indirect effects of invasive ascidian species on crab-mussel predator-prey communities, in the gulf of Maine. We will also discuss the “indirect” control of pests, via boosting the efficiency of introduced predators, with additional food.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Understanding the Rules of Life - Design Principles of Gene Regulatory Networks</title>
