@@ -3,27 +3,32 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/</loc>
-    <lastmod>2020-02-19T15:10:46-06:00</lastmod>
+    <loc>/talk/on-large-and-small-data-blow-up-solutions-in-the-classical-trojan-y-chromosome-model/</loc>
+    <lastmod>2020-02-26T15:10:40-06:00</lastmod>
   </url>
   
   <url>
-    <loc>/talk/paired-end-reads-merging-using-pair-hidden-markov-model/</loc>
-    <lastmod>2020-02-19T15:10:46-06:00</lastmod>
+    <loc>/</loc>
+    <lastmod>2020-02-26T15:10:40-06:00</lastmod>
   </url>
   
   <url>
     <loc>/talk/</loc>
+    <lastmod>2020-02-26T15:10:40-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/paired-end-reads-merging-using-pair-hidden-markov-model/</loc>
+    <lastmod>2020-02-19T15:10:46-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/</loc>
     <lastmod>2020-02-19T15:10:46-06:00</lastmod>
   </url>
   
   <url>
     <loc>/post/indirect-effects-of-invasive-species/</loc>
-    <lastmod>2020-02-12T15:10:55-06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/post/</loc>
     <lastmod>2020-02-12T15:10:55-06:00</lastmod>
   </url>
   
