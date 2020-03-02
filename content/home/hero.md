@@ -41,8 +41,17 @@ hero_media = "home.png"
 # Note. An optional note to show underneath the links.
 +++
 
-**We are interested in mathematics, statistics and computing with application to biology.**
+*We are interested in mathematics, statistics and computing with application to biology.*
 
-We meet on Wednesdays at 3:10 pm this semester (Spring 2020) in 401 Carver Hall, feel free to join us.
+We meet on Wednesdays at 3:10 pm this semester (Spring 2020) in 401 Carver Hall.
 
+`Schedule:`
+
+*3/04 - Prof. Amy Toth (EEOB and Entomology)*
+
+*3/11 - Prof. Zhijun Wu (Mathematics)*
+
+*3/18 - spring break, no seminar*
+
+*3/25 - Prof. Matthew ONeal (Entomology)*
 
