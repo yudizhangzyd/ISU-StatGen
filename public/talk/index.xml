@@ -5,7 +5,7 @@
     <link>/talk/</link>
       <atom:link href="/talk/index.xml" rel="self" type="application/rss+xml" />
     <description>Talks</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 26 Feb 2020 15:10:40 -0600</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 04 Mar 2020 15:10:40 -0600</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Talks</title>
@@ -13,15 +13,15 @@
     </image>
     
     <item>
-      <title> On large and small data blow-up solutions in the Classical Trojan Y- Chromosome Model</title>
-      <link>/talk/on-large-and-small-data-blow-up-solutions-in-the-classical-trojan-y-chromosome-model/</link>
-      <pubDate>Wed, 26 Feb 2020 15:10:40 -0600</pubDate>
-      <guid>/talk/on-large-and-small-data-blow-up-solutions-in-the-classical-trojan-y-chromosome-model/</guid>
+      <title> Building a super organism: Social insects as models for studying the evolution of biological complexity</title>
+      <link>/talk/building-a-super-organism-social-insects-as-models-for-studying-the-evolution-of-biological-complexity/</link>
+      <pubDate>Wed, 04 Mar 2020 15:10:40 -0600</pubDate>
+      <guid>/talk/building-a-super-organism-social-insects-as-models-for-studying-the-evolution-of-biological-complexity/</guid>
       <description>
 
 
-&lt;p&gt;&lt;strong&gt;Abstract: &lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;The Trojan Y-Chromosome (TYC) strategy is a biological control used to cause the extinction of invasive fish populations by manipulating the populations sex ratio. This is done by introducing YY super males into the invasive population, which guarantees male progeny upon mating with the YY males. We consider a three species TYC model, and show that, if the introduction rate of trojan fish is zero, under certain large data assumptions, negative solutions are possible for the male population which can in turn lead to finite time blow-up in the female and male populations. In order to overcome this, we will propose models that possess globally existing non-negative solutions, in any parameter or initial data regime.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Social insects, such as ants, bees, wasps, and termites, have been important models for understanding complex systems. In this talk, I will provide an overview of my laboratory’s research program related to the mechanisms and evolution of highly social behavior in insects (called “eusociality”), focusing on bees and wasps. I will first describe a conceptual framework for the major cooperative transitions in evolution, along with a scenario for the evolution of eusociality in insects. I will provide some vignettes from my laboratory’s recent research studies that are contributing to our growing understanding of this major transition in evolution. We integrate studies of behavior, physiology, and genomics, and new insights are beginning to unravel how eusociality evolved, fueled by recent advances in genomics and applying these to multiple species, including honey bees, bumble bees, and paper wasps.&lt;/p&gt;
 </description>
     </item>
     
