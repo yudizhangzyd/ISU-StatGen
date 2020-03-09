@@ -47,8 +47,6 @@ We meet on Wednesdays at 3:10 pm this semester (Spring 2020) in 401 Carver Hall.
 
 `Schedule:`
 
-*3/04 - Prof. Amy Toth (EEOB and Entomology)*
-
 *3/11 - Prof. Zhijun Wu (Mathematics)*
 
 *3/18 - spring break, no seminar*
