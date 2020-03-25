@@ -51,5 +51,7 @@ We meet on Wednesdays at 3:10 pm this semester (Spring 2020) in 401 Carver Hall.
 
 *3/18 - spring break, no seminar*
 
-*3/25 - Prof. Matthew ONeal (Entomology)*
+*3/25 - no seminar*
+
+*4/01 - Prof. Matthew ONeal (Entomology)*
 
