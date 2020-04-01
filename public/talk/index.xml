@@ -5,7 +5,7 @@
     <link>/talk/</link>
       <atom:link href="/talk/index.xml" rel="self" type="application/rss+xml" />
     <description>Talks</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 09 Mar 2020 17:12:03 -0500</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Apr 2020 15:10:43 -0500</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Talks</title>
@@ -13,15 +13,16 @@
     </image>
     
     <item>
-      <title>Why Multilingual, and How to Keep It -- An Evolutionary Dynamics Perspective</title>
-      <link>/talk/why-multilingual-and-how-to-keep-it-an-evolutionary-dynamics-perspective/</link>
-      <pubDate>Mon, 09 Mar 2020 17:12:03 -0500</pubDate>
-      <guid>/talk/why-multilingual-and-how-to-keep-it-an-evolutionary-dynamics-perspective/</guid>
+      <title>Soybean aphids - an invasive pest that changed soybean production in the US</title>
+      <link>/talk/soybean-aphids-an-invasive-pest-that-changed-soybean-production-in-the-us/</link>
+      <pubDate>Wed, 01 Apr 2020 15:10:43 -0500</pubDate>
+      <guid>/talk/soybean-aphids-an-invasive-pest-that-changed-soybean-production-in-the-us/</guid>
       <description>
 
 
-&lt;p&gt;&lt;strong&gt;Abstract: &lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;While many languages are in danger of extinction worldwide, multilingualism is being adopted for communication among different language groups, and playing a unique role of preserving language and cultural diversities. How multilingualism is developed and maintained therefore becomes an important interdisciplinary research subject for understanding complex social changes of modern-day societies. Here we consider a mixed population of multilingual speakers, with multilingual defined broadly as zero, limited, or full uses of multiple languages or dialects, and propose an evolutionary dynamic model for its development and evolution. The model consists of two different parts, formulated as two different evolutionary games. The first part accounts for selection of languages based on competition for population and social or economic preferences. The second part relates to circumstances when selection of languages is altered, for better or worse, by forces other than competition such as public policies, education, or family influences. By combining competition with intervention, we show how multilingualism may evolve under these two different sources of influences. We show in particular that by choosing appropriate interventional strategies, stable co-existence of languages, especially in multilingual forms, is possible, and extinction can be prevented, which is in contrast with major predictions from previous studies that co-existence of languages is unstable in general, and one language will eventually dominate the population while all others extinct.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;In 2000, the Soybean aphid (Aphis glycines) was discovered in Wisconsin. By 2003 it was found in every one of the 99 counties of Iowa. This pest is capable of exponential growth, doubling its populations in less than 2 days (sound familiar?). By 2015, the use of insecticides for the production of soybeans in the US had grown by 4-fold.&lt;/p&gt;
+&lt;p&gt;My lab has studied the biology, ecology and management of this pest. We are in need of models that use these empirical studies to help predict not only when and where outbreaks occur, but when management tools like insecticides will fail due to resistance. I’ll provide a brief background of this pest and some findings from our work that suggests a way forward for management that could be sustainable with limited impacts to the environment.&lt;/p&gt;
 </description>
     </item>
     

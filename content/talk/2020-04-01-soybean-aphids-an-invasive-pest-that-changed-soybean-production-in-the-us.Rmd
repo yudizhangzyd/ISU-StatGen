@@ -1,0 +1,25 @@
+---
+title: Soybean aphids - an invasive pest that changed soybean production in the US
+author: ''
+date: []
+slug: soybean-aphids-an-invasive-pest-that-changed-soybean-production-in-the-us
+categories: []
+tags: []
+subtitle: ''
+summary: ''
+event: Math/Stat Bio Seminar
+authors: [Dr. Matthew ONeal]
+lastmod: '2020-04-01T15:10:43-05:00'
+featured: no
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: no
+projects: []
+---
+
+**Abstract:**
+
+In 2000, the Soybean aphid (Aphis glycines) was discovered in Wisconsin. By 2003 it was found in every one of the 99 counties of Iowa.  This pest is capable of exponential growth, doubling its populations in less than 2 days (sound familiar?).  By 2015, the use of insecticides for the production of soybeans in the US had grown by 4-fold.
+
+My lab has studied the biology, ecology and management of this pest.  We are in need of models that use these empirical studies to help predict not only when and where outbreaks occur, but when management tools like insecticides will fail due to resistance. I'll provide a brief background of this pest and some findings from our work that suggests a way forward for management that could be sustainable with limited impacts to the environment.

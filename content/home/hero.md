@@ -43,15 +43,10 @@ hero_media = "home.png"
 
 *We are interested in mathematics, statistics and computing with application to biology.*
 
-We meet on Wednesdays at 3:10 pm this semester (Spring 2020) in 401 Carver Hall.
+We meet on Wednesdays at 3:10 pm this semester (Spring 2020).
+Due to the school shut down, we are going to meet via zoom, the URL is https://iastate.zoom.us/j/404033736, or, go to https://iastate.zoom.us/join and enter meeting ID: 404 033 736. 
 
 `Schedule:`
-
-*3/11 - Prof. Zhijun Wu (Mathematics)*
-
-*3/18 - spring break, no seminar*
-
-*3/25 - no seminar*
 
 *4/01 - Prof. Matthew ONeal (Entomology)*
 

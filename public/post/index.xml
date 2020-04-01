@@ -5,12 +5,25 @@
     <link>/post/</link>
       <atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Posts</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 04 Mar 2020 15:10:40 -0600</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 09 Mar 2020 15:10:03 -0500</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Posts</title>
       <link>/post/</link>
     </image>
+    
+    <item>
+      <title>Why Multilingual, and How to Keep It -- An Evolutionary Dynamics Perspective</title>
+      <link>/post/why-multilingual-and-how-to-keep-it-an-evolutionary-dynamics-perspective/</link>
+      <pubDate>Mon, 09 Mar 2020 15:10:03 -0500</pubDate>
+      <guid>/post/why-multilingual-and-how-to-keep-it-an-evolutionary-dynamics-perspective/</guid>
+      <description>
+
+
+&lt;p&gt;&lt;strong&gt;Abstract: &lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;While many languages are in danger of extinction worldwide, multilingualism is being adopted for communication among different language groups, and playing a unique role of preserving language and cultural diversities. How multilingualism is developed and maintained therefore becomes an important interdisciplinary research subject for understanding complex social changes of modern-day societies. Here we consider a mixed population of multilingual speakers, with multilingual defined broadly as zero, limited, or full uses of multiple languages or dialects, and propose an evolutionary dynamic model for its development and evolution. The model consists of two different parts, formulated as two different evolutionary games. The first part accounts for selection of languages based on competition for population and social or economic preferences. The second part relates to circumstances when selection of languages is altered, for better or worse, by forces other than competition such as public policies, education, or family influences. By combining competition with intervention, we show how multilingualism may evolve under these two different sources of influences. We show in particular that by choosing appropriate interventional strategies, stable co-existence of languages, especially in multilingual forms, is possible, and extinction can be prevented, which is in contrast with major predictions from previous studies that co-existence of languages is unstable in general, and one language will eventually dominate the population while all others extinct.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title> Building a super organism: Social insects as models for studying the evolution of biological complexity</title>
