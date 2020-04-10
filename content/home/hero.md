@@ -48,5 +48,4 @@ Due to the school shut down, we are going to meet via zoom, the URL is https://i
 
 `Schedule:`
 
-*4/01 - Prof. Matthew ONeal (Entomology)*
 

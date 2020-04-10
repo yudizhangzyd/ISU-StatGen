@@ -1,0 +1,23 @@
+---
+title: 'Soybean aphid (Hemiptera: Aphididae) response to lambda-cyhalothrin varies
+  with its virulence status to aphid-resistant soybean'
+author: ''
+date: []
+slug: soybean-aphid-hemiptera-aphididae-response-to-lambda-cyhalothrin-varies-with-its-virulence-status-to-aphid-resistant-soybean
+categories: []
+tags: []
+subtitle: ''
+summary: ''
+event: Math/Stat Bio Seminar
+authors: [Ivair Valmorbida]
+lastmod: '2020-04-08T15:10:37-05:00'
+featured: no
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: no
+projects: []
+---
+
+**Abstract**:
+Among the insect pests that can damage soybean in North Central USA, soybean aphid, Aphis glycines (Hemiptera: Aphididae) is considered one of the most important pests. This species is native from Asia and was first identified in USA in 2000. Phenotypic diversity has been found across different subpopulations of soybean aphid in the form of avirulent and virulent aphids (biotypes) to soybean plants containing Rag genes (Resistance to Aphis glycines). We used a leaf-dip bioassay to characterize the susceptibility of avirulent (biotype 1) and virulent aphids (biotype 4) to lamba-cyahlothrin. In addition, we evaluated the sublethal effects of this insecticide on fecundity and longevity of the F0 generation. We also used life table analysis for the F1 generation of both virulent and avirulent aphids to assess whether a sublethal exposure triggers hormesis phenomena on soybean aphid. The virulent soybean aphid had a significantly higher LC50 compared with avirulent aphid. Sublethal effects of lambda-cyhalothrin did not significantly affect the longevity of both populations; however, it significantly decreased the fecundity of avirulent aphid. Based on the life table analysis of the F1 generation, avirulent and virulent aphid also responded differently to sublethal exposure. Evidence of hormesis effects was more pronounced in the virulent aphid with an increase in the number of aphids per female, adult longevity and oviposition period. In addition, all the demographic parameters were significantly affected by sublethal exposure. Our results demonstrate that virulent aphids are less susceptible to lambda-cyhalothrin and that insecticide-induced hormesis may prime the selection of virulent aphids.

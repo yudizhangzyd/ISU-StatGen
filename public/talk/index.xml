@@ -5,7 +5,7 @@
     <link>/talk/</link>
       <atom:link href="/talk/index.xml" rel="self" type="application/rss+xml" />
     <description>Talks</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Apr 2020 15:10:43 -0500</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 08 Apr 2020 15:10:37 -0500</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Talks</title>
@@ -13,16 +13,15 @@
     </image>
     
     <item>
-      <title>Soybean aphids - an invasive pest that changed soybean production in the US</title>
-      <link>/talk/soybean-aphids-an-invasive-pest-that-changed-soybean-production-in-the-us/</link>
-      <pubDate>Wed, 01 Apr 2020 15:10:43 -0500</pubDate>
-      <guid>/talk/soybean-aphids-an-invasive-pest-that-changed-soybean-production-in-the-us/</guid>
+      <title>Soybean aphid (Hemiptera: Aphididae) response to lambda-cyhalothrin varies with its virulence status to aphid-resistant soybean</title>
+      <link>/talk/soybean-aphid-hemiptera-aphididae-response-to-lambda-cyhalothrin-varies-with-its-virulence-status-to-aphid-resistant-soybean/</link>
+      <pubDate>Wed, 08 Apr 2020 15:10:37 -0500</pubDate>
+      <guid>/talk/soybean-aphid-hemiptera-aphididae-response-to-lambda-cyhalothrin-varies-with-its-virulence-status-to-aphid-resistant-soybean/</guid>
       <description>
 
 
-&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;In 2000, the Soybean aphid (Aphis glycines) was discovered in Wisconsin. By 2003 it was found in every one of the 99 counties of Iowa. This pest is capable of exponential growth, doubling its populations in less than 2 days (sound familiar?). By 2015, the use of insecticides for the production of soybeans in the US had grown by 4-fold.&lt;/p&gt;
-&lt;p&gt;My lab has studied the biology, ecology and management of this pest. We are in need of models that use these empirical studies to help predict not only when and where outbreaks occur, but when management tools like insecticides will fail due to resistance. I’ll provide a brief background of this pest and some findings from our work that suggests a way forward for management that could be sustainable with limited impacts to the environment.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;:
+Among the insect pests that can damage soybean in North Central USA, soybean aphid, Aphis glycines (Hemiptera: Aphididae) is considered one of the most important pests. This species is native from Asia and was first identified in USA in 2000. Phenotypic diversity has been found across different subpopulations of soybean aphid in the form of avirulent and virulent aphids (biotypes) to soybean plants containing Rag genes (Resistance to Aphis glycines). We used a leaf-dip bioassay to characterize the susceptibility of avirulent (biotype 1) and virulent aphids (biotype 4) to lamba-cyahlothrin. In addition, we evaluated the sublethal effects of this insecticide on fecundity and longevity of the F0 generation. We also used life table analysis for the F1 generation of both virulent and avirulent aphids to assess whether a sublethal exposure triggers hormesis phenomena on soybean aphid. The virulent soybean aphid had a significantly higher LC50 compared with avirulent aphid. Sublethal effects of lambda-cyhalothrin did not significantly affect the longevity of both populations; however, it significantly decreased the fecundity of avirulent aphid. Based on the life table analysis of the F1 generation, avirulent and virulent aphid also responded differently to sublethal exposure. Evidence of hormesis effects was more pronounced in the virulent aphid with an increase in the number of aphids per female, adult longevity and oviposition period. In addition, all the demographic parameters were significantly affected by sublethal exposure. Our results demonstrate that virulent aphids are less susceptible to lambda-cyhalothrin and that insecticide-induced hormesis may prime the selection of virulent aphids.&lt;/p&gt;
 </description>
     </item>
     
